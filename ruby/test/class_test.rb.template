@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require_relative '../lib/class'
+require 'test/unit/assertions'
+include Test::Unit::Assertions # rubocop:disable Style/MixinUsage
+
