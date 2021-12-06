@@ -11,6 +11,7 @@ GEM
       ast (~> 2.4.1)
     power_assert (2.0.1)
     rainbow (3.0.0)
+    rake (13.0.6)
     regexp_parser (2.2.0)
     rexml (3.2.5)
     rubocop (1.23.0)
@@ -34,6 +35,7 @@ PLATFORMS
 
 DEPENDENCIES
   guard-test
+  rake
   rubocop
   test-unit
 
